@@ -26,7 +26,7 @@ Is is a project visualizes an e-commerce dataset using Power BI, transforming ra
 ## Project Files
 
 -  Power BI report file (E-mail me if you want the source file, rizwanforbuissnes@gmail.com happy to help 😊)
--  Dataset used
+-  Dataset used (In this repo)
 
 ## Tools and Technologies
 
