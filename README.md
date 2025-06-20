@@ -27,10 +27,11 @@ Every page includes interactive slicers to customize your view by date, category
 
 ## Project Files
 
--  Power BI report file (E-mail me if you want the source file, rizwanforbuissnes@gmail.com happy to help 😊)
+-  Power BI report file (E-mail me if you want the source file or icons, rizwanforbuissnes@gmail.com happy to help 😊)
 -  Dataset used
-- ![DashBoard](docs/Full%20Dashboard.png)
-- ![Expense Tooltip](docs/Expense%20Tooltip.png)
+- ![Main Dashboard](docs/E-Commerce%20PG-1.png)
+- ![Detailed Insights](docs/E-Commerce%20PG-2.png)
+- ![Interactive Slicers](docs/E-Commerece%20PG-1%20Slicer.png)
 
 # Tools and Technologies Used
 
