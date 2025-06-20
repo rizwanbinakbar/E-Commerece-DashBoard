@@ -1,6 +1,7 @@
 # E-Commerece-DashBoard
 It is a dynamic visual story of an e-commerce business’s performance, crafted to help stakeholders quickly understand how their digital storefront is thriving.
 
+
 # Dashboard and Report Features
 
 The dashboard acts as a control tower for decision-makers. Here's what you'll find:
@@ -22,6 +23,14 @@ Monthly/weekly breakdowns reveal seasonal spikes, drops, and patterns that can i
 
 Interactive Filters and Drilldowns
 Every page includes interactive slicers to customize your view by date, category, region, or customer type, making the report flexible for multiple stakeholders.
+
+
+## Project Files
+
+-  Power BI report file (E-mail me if you want the source file, rizwanforbuissnes@gmail.com happy to help 😊)
+-  Dataset used
+- ![DashBoard](docs/Full%20Dashboard.png)
+- ![Expense Tooltip](docs/Expense%20Tooltip.png)
 
 # Tools and Technologies Used
 
