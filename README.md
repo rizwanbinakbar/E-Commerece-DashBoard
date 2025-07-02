@@ -1,5 +1,5 @@
 # E-Commerece Store DashBoard
-Is is a project visualizes an e-commerce dataset using Power BI, transforming raw data into actionable insights for product performance, customer behavior, and sales trends.s.
+Is is a project visualizes an e-commerce dataset using Power BI, transforming raw data into actionable insights for product performance, customer behavior, and sales trends.
 ## Dashboard Features
 
 - Sales Overview Panel
