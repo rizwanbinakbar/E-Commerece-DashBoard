@@ -1,4 +1,4 @@
-# E-Commerece Store DashBoard
+# E-Commerce Store DashBoard
 This project visualizes an e-commerce dataset using Power BI, transforming raw data into actionable insights for product performance, customer behavior, and sales trends.
 ## Dashboard Features
 
